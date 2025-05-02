@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "purple-art-01a9",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "6c7a66ef-e2ad-443b-af01-74ad48043e6f",
+      "database_name": "raspy-forest-3186-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
